@@ -8,7 +8,7 @@ Member Team :
 | 2  | Fandy Alifian      | 3145162436 | Scrum Master                 |
 | 3  | Wiyantoro          | 3145164375 | Frond End Back End Developer |
 
-## Prodcut Backlog
+## Product Backlog
 
   Aplikasi ini dibuat untuk membantu orang-orang yang susah memilih sebuah kado atau hadiah lainnya
   
