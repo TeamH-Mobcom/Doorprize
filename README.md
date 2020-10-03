@@ -16,5 +16,5 @@ Member Team :
   pada awal sprint kami memulai dengan berdiskusi tentang proses pembuatan aplikasi ini, kemudian membagi tugas-tugas yang harus dilakukan setiap minggu nya.
 
 semua rincian dari awal , pada sprint sampai men-deploy nya berada pada link dibawah ini:
-https://docs.google.com/spreadsheets/d/1xFl8b-Z0u6DLFKP2udQNm0ItLSLp-ZyS30aQYRHtZ8A/edit?usp=sharing
 
+https://docs.google.com/spreadsheets/d/1xFl8b-Z0u6DLFKP2udQNm0ItLSLp-ZyS30aQYRHtZ8A/edit?usp=sharing
