@@ -17,3 +17,4 @@ Member Team :
 
 semua rincian dari awal , pada sprint sampai men-deploy nya berada pada link dibawah ini:
 https://docs.google.com/spreadsheets/d/1xFl8b-Z0u6DLFKP2udQNm0ItLSLp-ZyS30aQYRHtZ8A/edit?usp=sharing
+
