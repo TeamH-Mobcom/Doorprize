@@ -19,5 +19,7 @@ semua rincian dari awal , pada sprint sampai men-deploy nya berada pada link dib
 
 https://docs.google.com/spreadsheets/d/1xFl8b-Z0u6DLFKP2udQNm0ItLSLp-ZyS30aQYRHtZ8A/edit?usp=sharing
 
+### MEETING VIDEO - SPRINT 4
+https://youtu.be/yXYtDWUIKug
 
 
