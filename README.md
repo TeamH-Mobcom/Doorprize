@@ -22,6 +22,6 @@ https://docs.google.com/spreadsheets/d/1xFl8b-Z0u6DLFKP2udQNm0ItLSLp-ZyS30aQYRHt
 ### MEETING VIDEO - SPRINT 4
 https://youtu.be/yXYtDWUIKug
 
-  Vidio ini berisi diskusi singkat kami, dikarenakan diskusi utama yang kami lakukan tiap pekan dilakukan secara tatap muka(bertemu secara langsung).
+  Berikut diskusi lanjutan kami mengenai evaluasi dari sprint 4. Diskusi tersebut berdurasi singkat karena kami melakukan diskusi tatap muka perpekan membahas sprint yang sedang berlangsung dan sprint selanjutnya.
 
 
