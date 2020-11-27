@@ -10,7 +10,8 @@ Member Team :
 
 ## Product Backlog
 
-  Aplikasi ini dibuat untuk membantu orang-orang yang susah memilih sebuah kado atau hadiah lainnya
+  membuat aplikasi yang menjadi media transaksi jual beli secara online.
+  pembeli dan penjual harus melakukan registrasi, kemudian penjual perlu melakukan request kepada admin agar dapat memposting barang dagangannya.
   
 ### SPRINT 1
   pada awal sprint kami memulai dengan berdiskusi tentang proses pembuatan aplikasi ini, kemudian membagi tugas-tugas yang harus dilakukan setiap minggu nya.
