@@ -6,15 +6,16 @@
     android:layout_height="match_parent"
     android:layout_margin="8dp"
 
-    tools:context="com.mobcom.edanuspembeli.List_Menu">
-
+    tools:context="com.mobcom.edanuspembeli.List_Toko">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
     <EditText
         android:id="@+id/search_field"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
         android:layout_marginRight="20dp"
-        android:layout_marginTop="20dp"
         android:layout_toStartOf="@+id/search_btn"
 
         android:ems="10"
@@ -27,15 +28,34 @@
         android:paddingTop="10dp"
         android:textColor="#999999"
         android:textSize="16sp" />
+    <Button
+        android:id="@+id/notifikasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notifikasi Pesanan"/>
+    </LinearLayout>
+
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/datalist"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="100dp"
-        android:scrollbars="vertical"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:scrollbars="vertical" />
 
-        />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/datalist2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:scrollbars="vertical" />
+
+    <Button
+        android:id="@+id/btn_sign_out"
+        android:text="SignOut"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 
 

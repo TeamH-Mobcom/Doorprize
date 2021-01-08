@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mobcom.edanuspenjual">
-
-    <uses-permission android:name="android.permission.INTERNET" />
+    package="com.mobcom.edanuspembeli">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="E-market Pembeli"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.mobcom.edanuspenjual.temp"></activity>
-        <activity android:name="com.mobcom.edanuspenjual.input_toko" />
-        <activity android:name="com.mobcom.edanuspenjual.Main2Activity" />
-        <activity android:name="com.mobcom.edanuspenjual.TerimaPesanan" />
-        <activity android:name="com.mobcom.edanuspenjual.List_Penerimaan" />
-        <activity android:name="com.mobcom.edanuspenjual.Penerimaan" />
-        <activity android:name="com.mobcom.edanuspenjual.UpdateMenu" />
-        <activity android:name="com.mobcom.edanuspenjual.List_Menu" />
-        <activity android:name="com.mobcom.edanuspenjual.Menu" />
-        <activity android:name="com.mobcom.edanuspenjual.Input_menu" />
-        <activity android:name="com.mobcom.edanuspenjual.MainActivity">
+        <activity android:name="com.mobcom.edanuspembeli.Toko"></activity>
+        <activity android:name="com.mobcom.edanuspembeli.List_Menu" />
+        <activity android:name="com.mobcom.edanuspembeli.Main2Activity" />
+        <activity android:name="com.mobcom.edanuspembeli.Notif" />
+        <activity android:name="com.mobcom.edanuspembeli.List_Notif" />
+        <activity android:name="com.mobcom.edanuspembeli.Pembelian" />
+        <activity android:name="com.mobcom.edanuspembeli.Menu" />
+        <activity android:name="com.mobcom.edanuspembeli.List_Toko">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
