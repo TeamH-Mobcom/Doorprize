@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mobcom.edanuspembeli">
+    package="com.example.test4">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="E-market Pembeli"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.mobcom.edanuspembeli.Toko"></activity>
-        <activity android:name="com.mobcom.edanuspembeli.List_Menu" />
-        <activity android:name="com.mobcom.edanuspembeli.Main2Activity" />
-        <activity android:name="com.mobcom.edanuspembeli.Notif" />
-        <activity android:name="com.mobcom.edanuspembeli.List_Notif" />
-        <activity android:name="com.mobcom.edanuspembeli.Pembelian" />
-        <activity android:name="com.mobcom.edanuspembeli.Menu" />
-        <activity android:name="com.mobcom.edanuspembeli.List_Toko">
+        <activity android:name=".List_User"/>
+        <activity android:name=".Actionbar1" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".List_User1" />
+        <activity android:name=".Actionbar" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Launcher">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
