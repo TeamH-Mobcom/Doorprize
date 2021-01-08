@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    tools:context="com.mobcom.edanuspenjual.UpdateMenu">
+
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/new_toko"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Toko"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/new_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nama Menu"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/new_harga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Harga"
+        android:inputType="number" />
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ubah" />
+
+</LinearLayout>
